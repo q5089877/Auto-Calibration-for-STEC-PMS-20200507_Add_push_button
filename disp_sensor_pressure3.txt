@@ -1,0 +1,12 @@
+
+diag.diag 0
+diag.echo 1
+diag.disp.alarm 1
+diag.disp.audio 1
+diag.disp.sens.mode 0x2222222222
+diag.disp 1
+diag.prof.setting reset
+
+
+
+
